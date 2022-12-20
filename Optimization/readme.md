@@ -20,3 +20,5 @@ Practical 5:
 
 Practical 6:
 
+
+**Observation**: The practical exercises have been realized in collaboration with Flàvia Ferrús.
