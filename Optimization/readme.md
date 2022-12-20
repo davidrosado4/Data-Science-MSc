@@ -6,7 +6,7 @@ Problem set 1: 9.5
 
 Problem set 2: 10
 
-** Practical exercises**:
+**Practical exercises**:
 
 Practical 1: 10
 
