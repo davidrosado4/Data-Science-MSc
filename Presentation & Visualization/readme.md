@@ -6,6 +6,7 @@ The second project was a presentation in the class, in which we had to create a 
 storytelling through the visualisation made.
 
 The marks are the following:
+
 Dashboard:
 
 Storytelling:
