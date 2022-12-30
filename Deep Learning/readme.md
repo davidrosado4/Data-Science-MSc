@@ -4,6 +4,6 @@ The marks are:
 
 Pract 1: 9.5
 
-Pract 2:
+Pract 2: 9.0
 
-Pract 3:
+Pract 3: 9.0
