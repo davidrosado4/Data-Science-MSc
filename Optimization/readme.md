@@ -16,9 +16,9 @@ Practical 3: 10
 
 Practical 4: 10
 
-Practical 5: 
+Practical 5: 9.06
 
-Practical 6:
+Practical 6: 9.06
 
 **Final exam**: 9
 
