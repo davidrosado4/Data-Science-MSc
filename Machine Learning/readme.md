@@ -5,12 +5,12 @@ I collaborated with Àlex Pujol and we elaborated a research in discovering fast
 
 The marks are the following:
 
-Kaggle competition:
+**Kaggle competition**: 7
 
-Paper:
+**Paper**:
 
-First theoretical exam: 9.5
+**First theoretical exam**: 9.5
 
-Second theoretical exam: 8.7
+**Second theoretical exam**: 8.7
 
-Quizzes global grade: 
+**Quizzes global grade**: 
