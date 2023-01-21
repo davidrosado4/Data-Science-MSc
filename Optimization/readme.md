@@ -20,5 +20,8 @@ Practical 5:
 
 Practical 6:
 
+**Final exam**: 9
+
+**Final grade**: 9.5
 
 **Observation**: The practical exercises have been realized in collaboration with Flàvia Ferrús.
