@@ -2,8 +2,10 @@ The assignment was based on three deliveries. On the first one, we had to scratc
 
 The marks are:
 
-Pract 1: 9.5
+**Practical 1**: 9.5
 
-Pract 2: 9.0
+**Practical 2**: 9.0
 
-Pract 3: 9.0
+**Practical 3**: 9.0
+
+**Final grade**: 9.2
