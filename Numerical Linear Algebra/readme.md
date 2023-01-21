@@ -4,4 +4,8 @@ Project 1: 9.5
 
 Project 2: 8.5
 
-Project 3:
+Project 3: 8.5
+
+Final exam: 10
+
+Final grade: 9.4(MH)
