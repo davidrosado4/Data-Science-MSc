@@ -7,10 +7,12 @@ The marks are the following:
 
 **Kaggle competition**: 7
 
-**Paper**:
+**Paper**: 8.5
 
 **First theoretical exam**: 9.5
 
 **Second theoretical exam**: 8.7
 
-**Quizzes global grade**: 
+**Quizzes global grade**: 9.5
+
+**Final grade**: 8.5
