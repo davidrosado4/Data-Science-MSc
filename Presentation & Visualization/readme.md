@@ -7,10 +7,10 @@ storytelling through the visualisation made.
 
 The marks are the following:
 
-Dashboard:
+Dashboard: 8
 
 Storytelling:
 
-Final exam:
+Final exam: 9
 
 **Observation**: To realize this project I worked with Flàvia Ferrús and Àlex Pujol.
