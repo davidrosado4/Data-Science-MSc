@@ -8,4 +8,4 @@ Project 3: 8.5
 
 Final exam: 10
 
-Final grade: 9.4(MH)
+Final grade: 9.9(MH)
