@@ -22,6 +22,6 @@ Practical 6: 9.06
 
 **Final exam**: 9
 
-**Final grade**: 9.5
+**Final grade**: 9.5 (MH)
 
 **Observation**: The practical exercises have been realized in collaboration with Flàvia Ferrús.
