@@ -9,8 +9,10 @@ The marks are the following:
 
 Dashboard: 8
 
-Storytelling:
+Storytelling: 8.5
 
 Final exam: 9
+
+Final mark: 8.5
 
 **Observation**: To realize this project I worked with Flàvia Ferrús and Àlex Pujol.
