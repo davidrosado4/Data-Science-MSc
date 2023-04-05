@@ -1,1 +1,1 @@
-Second assigment. Data folder contains the necessary data for running the code.
+Second assigment. Data can be download from the notebook, using a link.
