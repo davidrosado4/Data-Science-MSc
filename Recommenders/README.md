@@ -3,3 +3,13 @@ system for the MovieLens dataset. The paper chosen for the presentation was: Two
 RecSys challenge in 2018.
 
 For the Kaggle competition, I worked with my friend Sara Bardají.
+
+The marks are:
+
+**Kaggle competition:**
+
+**Presentation of the paper: 10**
+
+**Final exam:8**
+
+**Final mark:**
