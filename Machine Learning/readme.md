@@ -1,3 +1,4 @@
+# Machine Learning
 The assignment was based on two differents projects, two theoretical exams and short questionnaires after each theoretical class in order to see if we have 
 understand the topic of the day. The first project was a kaggle competition (https://www.kaggle.com/competitions/inclassfakejobs/leaderboard)
 where I was a member of the greMLins team. Meanwhile, in the second project, we were expected to produce a brief research paper. In order to do this, 
