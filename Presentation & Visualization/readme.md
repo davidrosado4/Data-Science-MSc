@@ -1,3 +1,4 @@
+# Presentation and Visualization
 The assigment was based on two projects and a final exam. On the first project we had to create a visualization (dashboard) using Tableau. I chose the
 COVID-19 data and I tried to create a visualization linking medical and economic issues. Moreover, I also studied how the pandemic has affected "work 
 from home" and how has people's lifestyles changed, in the sense of buying food, has the frequency gone up or down?
