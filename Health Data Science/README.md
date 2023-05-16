@@ -5,7 +5,7 @@ The assignment was based on five deliveries.
 +  The third assignment was based on the creation of a GAN to perform data augmentation for chest X-ray images. Moreover, we were asked to compute the FID and to extract some conclusions.
 +  The fourth assignment was based on analyze Covid-19 data of Catalunya and extract some conclusions of relationships between variables.
 +  Finally, in the last assignment I worked with Sergi Bech in order to present the following paper: Cardiac aging synthesis from cross-sectional data with conditional generative adversarial networks.
-@sergibech
+[@sergibech](#https://github.com/sergibech)
 
 **Marks**
 
