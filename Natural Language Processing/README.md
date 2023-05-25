@@ -3,4 +3,10 @@ The assignment of this course was based on two projects and a final exam. On the
 
 **Marks**
 
-**Project 1:**
+Project 1: 9.7
+
+Project 2:
+
+Final Exam:
+
+**Final Mark:**
