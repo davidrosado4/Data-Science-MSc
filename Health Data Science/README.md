@@ -14,7 +14,7 @@ Assignment 2: 10
 
 Assignment 3: 9.25
 
-Assignment 4:
+Assignment 4: 9
 
 Assignment 5:
 
