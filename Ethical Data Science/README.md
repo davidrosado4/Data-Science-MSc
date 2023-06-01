@@ -17,11 +17,11 @@ The objectives of this assignment are:
 
 **Marks**
 
-Assignment 1:
+Assignment 1: 9
 
-Assignment 2:
+Assignment 2: 9
 
-Final exam:
+Final exam: 8.5
 
-**Final Mark:**
+**Final Mark: 8.8** 
 
