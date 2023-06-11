@@ -16,9 +16,9 @@ Assignment 3: 9.25
 
 Assignment 4: 9
 
-Assignment 5:
+Assignment 5: 9
 
-**Final mark:**
+**Final mark: 9.5**
 
 
 
