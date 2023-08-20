@@ -5,6 +5,6 @@ The assignment of this course was based on one assignment and one final project.
 
 Assignment: 8
 
-Course Project:
+Course Project: 10
 
-**Final mark:**
+**Final mark: 9**
