@@ -3,10 +3,10 @@ The assignment of this course was based on three different deliviries. On the fi
 
 **Marks:**
 
-**Assignment 1:8.5**
+**Assignment 1: 8.5**
 
-**Assignment 2:**
+**Assignment 2: 10**
 
-**Assignment 3:9.5**
+**Assignment 3: 9.5**
 
-**Final Mark:**
+**Final Mark: 9.4**
