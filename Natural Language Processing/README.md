@@ -5,8 +5,8 @@ The assignment of this course was based on two projects and a final exam. On the
 
 Project 1: 9.7
 
-Project 2:
+Project 2: 9.0
 
-Final Exam:
+Final Exam: 7.1
 
-**Final Mark:**
+**Final Mark: 8.7**
