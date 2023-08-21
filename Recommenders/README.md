@@ -13,4 +13,4 @@ The marks are:
 
 **Final exam: 8**
 
-**Final mark: 9.83**
+**Final mark: 9.8**
