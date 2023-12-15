@@ -1,4 +1,4 @@
-The assignment was based in a final project. We created a web app recommendation.
+The assignment was based in a final project. We created a web app recommendation following Agile methodology.
 
 Special mention to all the team!!
 - [Leonardo Bocchi](https://github.com/leobcc)
