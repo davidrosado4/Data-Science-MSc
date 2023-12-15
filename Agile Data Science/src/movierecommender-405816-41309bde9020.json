@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "movierecommender-405816",
+  "private_key_id": "41309bde90202c3960332d2a24305163aeeef1e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoumYKjSbsEMd2\nHOul6+x5bWDOFmgkPZzJV347PMcd29kvgcqw728OZovYKW8ebeX/diCaTO4yWzip\nC2Mgo6XkIMeKpjeWmc6mru903Kq0Yi/ytgP766T/y5C5J16kWMBY9Cs7CnP/rEgT\nE/PMH76ynkuYv5e960zJSZQ3BEsWU5EDTkrS6iWayuekSPmAA+SF87AR69o78u3t\n+YHsGNxziiVswurHa5/Xzhc7EFpWDU3kIozzrNZhhGLFY3JUJyETxipOkMZetK9D\nixpQxFrIOQBgnuPQrr9eJUpULc8Rf3EInvBpox30XL5v+TGtLHKQJl+iOEq+E5Au\nfTAIDIaLAgMBAAECggEAAIfFdlcHPkq3NcnVe8oIDkGnwj4Tyblf2sopnWoNfiyI\nvDt+NZwrDzKHUgCfVsslo+3tIE8JmKLsxKtCfoHFLbhkqCzpk9Gb8q4uFoHzD2oX\nmH21+X6+IAe1xr827vFQeXcbA65+utkByP2REJ0w7kLNHgfMJE6vCRrwGlQrIEDV\nrQPp8cgKE2fsxV1oAz2P5mBAfBQJVXBekLEbZoPxXqixRGY2Au4w3PFY8ZLBT8o8\nbnagADkVq7yR14sFLr91V/RMY9YytVwTxOIRDjJRc7NdjG9CQyiKvvVLvO1tp2So\npwfgavK/+Txe0UzbTOmJvnHPlSw/2DoGJOqSQf8OIQKBgQDqB0AAi+8dpRupaELL\nkOlxfHk4P/2nVrVcsNw77/GuXZrLzWxxBKdLxp+tpKhFZ0nmQoAgopMNF3HTHalQ\npSiapyOpaHHkNLkwOq9hAb3LYKMLOC3fURhGJpHrkVuKTxpO/E7krZoAHPY1MX0m\nyuu+eK4sbWI+OVH2UWv/8Ij7YwKBgQC4kbEi45VOPcLoIHbMMr0SLpJAuun1aVZq\no2yxU/WdLrZG3h9JHnoFnBqrjNbTokbbk+Tz9kan9UTLKmI9T8BGiGtlZCWpjGxs\ncXNpcpmjQ8YdLGix9eOkFzaLOKxDvQkddodpJ/GaIYlED6qE9Rge/K7YghfkKPVV\nlpXxQCJ0uQKBgQCkuT+qYtSGyD1FK3bAdBpsX9Gu7xOqIlT7jh0mLwis04PuaYQn\ntL/QjVi9T0WFvGL+qNYoomXg9ByRHbKcafO/j1+BkVuA5j9nHBdvr1sY+McqUXuw\nURNF5UYWSjTlkDITYHJjcXIRHFGMNW5CzNfMNINcEA3zgEMZnkvnVTYFwwKBgGAv\nBJnC8ibxBqaDbIVjl6ZnAK6c+Zl7yJ4QBm+u6lt8YV8zGCi5qitMO5XU8osdkUGS\npAkC+bVDmxMpRkLfUbswEo+nDf16gXJN+TAlma08f3zqjLDZDEWSF0mcQiGW3K4u\n+8gwGbcR7P+8Dkf1lhln4xJPUXYEZj2xGPi9THd5AoGAfy5+uKv1gVfmqXvP8fgg\n5Fc/6+LmVEIRD98OLHMEgSnya1d2WnpHLn+gDAbWmE+G3PULZjaXxX0GDEFfVQML\nUKoU1vKz4s0jnNlPUOqIbAB2SOuk5KrAoPytChcKOfy5h5Ks9nIL54khMEl0wAHW\nQK6ktdfWUx6emquqqVtHp+M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "movierecommendersheets@movierecommender-405816.iam.gserviceaccount.com",
+  "client_id": "112382797044753145825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/movierecommendersheets%40movierecommender-405816.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
