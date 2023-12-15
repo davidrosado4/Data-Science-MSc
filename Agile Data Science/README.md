@@ -1,6 +1,16 @@
 The assignment was based in a final project. We created a web app recommendation.
 
+Special mention to all the team!!
+- [Leonardo Bocchi](https://github.com/leobcc)
+- [Carmen Casas](https://github.com/ccasash)
+- [Flàvia Ferrús](https://github.com/flaviaferrus)
+- [Arturo Fredes](https://github.com/arturofredes)
+- [Àlex Pujol](https://github.com/alex-pv01)
+- [Jaume Sanchez](https://github.com/jshz12)
+
 **Final mark:**
+
+Original Readme:
 
 ---
 # Movie Recommender Web App
