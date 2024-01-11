@@ -8,7 +8,7 @@ Special mention to all the team!!
 - [Àlex Pujol](https://github.com/alex-pv01)
 - [Jaume Sanchez](https://github.com/jshz12)
 
-**Final mark:**
+**Final mark:8.5**
 
 Original Readme:
 
